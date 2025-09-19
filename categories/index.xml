@@ -2,89 +2,97 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on LowCarbz | Jouw bron voor koolhydraatarm</title>
-        <link>http://localhost:1313/categories/</link>
+        <link>https://lowcarbz.nl/categories/</link>
         <description>Recent content in Categories on LowCarbz | Jouw bron voor koolhydraatarm</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>nl-nl</language>
         <copyright>Iris Wijngaard</copyright>
-        <lastBuildDate>Fri, 19 Sep 2025 13:11:15 +0200</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Comfort Food</title>
-        <link>http://localhost:1313/categories/comfort-food/</link>
-        <pubDate>Fri, 19 Sep 2025 13:11:15 +0200</pubDate>
+        <lastBuildDate>Fri, 19 Sep 2025 16:31:28 +0200</lastBuildDate><atom:link href="https://lowcarbz.nl/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Keto</title>
+        <link>https://lowcarbz.nl/categories/keto/</link>
+        <pubDate>Fri, 19 Sep 2025 16:31:28 +0200</pubDate>
         
-        <guid>http://localhost:1313/categories/comfort-food/</guid>
+        <guid>https://lowcarbz.nl/categories/keto/</guid>
         <description></description>
         </item>
         <item>
-        <title>Koolhydraatarm</title>
-        <link>http://localhost:1313/categories/koolhydraatarm/</link>
-        <pubDate>Fri, 19 Sep 2025 13:11:15 +0200</pubDate>
+        <title>Sauzen</title>
+        <link>https://lowcarbz.nl/categories/sauzen/</link>
+        <pubDate>Fri, 19 Sep 2025 16:31:28 +0200</pubDate>
         
-        <guid>http://localhost:1313/categories/koolhydraatarm/</guid>
+        <guid>https://lowcarbz.nl/categories/sauzen/</guid>
         <description></description>
         </item>
         <item>
         <title>Vegetarisch</title>
-        <link>http://localhost:1313/categories/vegetarisch/</link>
+        <link>https://lowcarbz.nl/categories/vegetarisch/</link>
+        <pubDate>Fri, 19 Sep 2025 16:31:28 +0200</pubDate>
+        
+        <guid>https://lowcarbz.nl/categories/vegetarisch/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Comfort Food</title>
+        <link>https://lowcarbz.nl/categories/comfort-food/</link>
         <pubDate>Fri, 19 Sep 2025 13:11:15 +0200</pubDate>
         
-        <guid>http://localhost:1313/categories/vegetarisch/</guid>
+        <guid>https://lowcarbz.nl/categories/comfort-food/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Koolhydraatarm</title>
+        <link>https://lowcarbz.nl/categories/koolhydraatarm/</link>
+        <pubDate>Fri, 19 Sep 2025 13:11:15 +0200</pubDate>
+        
+        <guid>https://lowcarbz.nl/categories/koolhydraatarm/</guid>
         <description></description>
         </item>
         <item>
         <title>Diner</title>
-        <link>http://localhost:1313/categories/diner/</link>
+        <link>https://lowcarbz.nl/categories/diner/</link>
         <pubDate>Fri, 19 Sep 2025 12:46:04 +0200</pubDate>
         
-        <guid>http://localhost:1313/categories/diner/</guid>
+        <guid>https://lowcarbz.nl/categories/diner/</guid>
         <description></description>
         </item>
         <item>
         <title>Koolhydraatarme Recepten</title>
-        <link>http://localhost:1313/categories/koolhydraatarme-recepten/</link>
+        <link>https://lowcarbz.nl/categories/koolhydraatarme-recepten/</link>
         <pubDate>Fri, 19 Sep 2025 12:26:18 +0200</pubDate>
         
-        <guid>http://localhost:1313/categories/koolhydraatarme-recepten/</guid>
+        <guid>https://lowcarbz.nl/categories/koolhydraatarme-recepten/</guid>
         <description></description>
         </item>
         <item>
         <title>Gezonde Recepten</title>
-        <link>http://localhost:1313/categories/gezonde-recepten/</link>
+        <link>https://lowcarbz.nl/categories/gezonde-recepten/</link>
         <pubDate>Fri, 19 Sep 2025 12:18:27 +0200</pubDate>
         
-        <guid>http://localhost:1313/categories/gezonde-recepten/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Keto</title>
-        <link>http://localhost:1313/categories/keto/</link>
-        <pubDate>Fri, 19 Sep 2025 12:18:27 +0200</pubDate>
-        
-        <guid>http://localhost:1313/categories/keto/</guid>
+        <guid>https://lowcarbz.nl/categories/gezonde-recepten/</guid>
         <description></description>
         </item>
         <item>
         <title>Nederlandse Keuken</title>
-        <link>http://localhost:1313/categories/nederlandse-keuken/</link>
+        <link>https://lowcarbz.nl/categories/nederlandse-keuken/</link>
         <pubDate>Fri, 19 Sep 2025 12:18:27 +0200</pubDate>
         
-        <guid>http://localhost:1313/categories/nederlandse-keuken/</guid>
+        <guid>https://lowcarbz.nl/categories/nederlandse-keuken/</guid>
         <description></description>
         </item>
         <item>
         <title>Gezonde Snacks</title>
-        <link>http://localhost:1313/categories/gezonde-snacks/</link>
+        <link>https://lowcarbz.nl/categories/gezonde-snacks/</link>
         <pubDate>Fri, 19 Sep 2025 12:07:50 +0200</pubDate>
         
-        <guid>http://localhost:1313/categories/gezonde-snacks/</guid>
+        <guid>https://lowcarbz.nl/categories/gezonde-snacks/</guid>
         <description></description>
         </item>
         <item>
         <title>Indiase Keuken</title>
-        <link>http://localhost:1313/categories/indiase-keuken/</link>
+        <link>https://lowcarbz.nl/categories/indiase-keuken/</link>
         <pubDate>Fri, 19 Sep 2025 11:49:07 +0200</pubDate>
         
-        <guid>http://localhost:1313/categories/indiase-keuken/</guid>
+        <guid>https://lowcarbz.nl/categories/indiase-keuken/</guid>
         <description></description>
         </item>
         
