@@ -7,12 +7,28 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>nl-nl</language>
         <copyright>Iris Wijngaard</copyright>
-        <lastBuildDate>Sun, 21 Sep 2025 04:00:01 +0000</lastBuildDate><atom:link href="https://lowcarbz.nl/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 21 Sep 2025 08:00:01 +0000</lastBuildDate><atom:link href="https://lowcarbz.nl/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Gezonde Recepten</title>
+        <link>https://lowcarbz.nl/categories/gezonde-recepten/</link>
+        <pubDate>Sun, 21 Sep 2025 08:00:01 +0000</pubDate>
+        
+        <guid>https://lowcarbz.nl/categories/gezonde-recepten/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Keto</title>
         <link>https://lowcarbz.nl/categories/keto/</link>
-        <pubDate>Sun, 21 Sep 2025 04:00:01 +0000</pubDate>
+        <pubDate>Sun, 21 Sep 2025 08:00:01 +0000</pubDate>
         
         <guid>https://lowcarbz.nl/categories/keto/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Vegetarisch</title>
+        <link>https://lowcarbz.nl/categories/vegetarisch/</link>
+        <pubDate>Sun, 21 Sep 2025 08:00:01 +0000</pubDate>
+        
+        <guid>https://lowcarbz.nl/categories/vegetarisch/</guid>
         <description></description>
         </item>
         <item>
@@ -21,14 +37,6 @@
         <pubDate>Sun, 21 Sep 2025 04:00:01 +0000</pubDate>
         
         <guid>https://lowcarbz.nl/categories/ontbijt/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Vegetarisch</title>
-        <link>https://lowcarbz.nl/categories/vegetarisch/</link>
-        <pubDate>Sun, 21 Sep 2025 04:00:01 +0000</pubDate>
-        
-        <guid>https://lowcarbz.nl/categories/vegetarisch/</guid>
         <description></description>
         </item>
         <item>
@@ -181,14 +189,6 @@
         <pubDate>Fri, 19 Sep 2025 16:31:28 +0200</pubDate>
         
         <guid>https://lowcarbz.nl/categories/sauzen/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Gezonde Recepten</title>
-        <link>https://lowcarbz.nl/categories/gezonde-recepten/</link>
-        <pubDate>Fri, 19 Sep 2025 12:18:27 +0200</pubDate>
-        
-        <guid>https://lowcarbz.nl/categories/gezonde-recepten/</guid>
         <description></description>
         </item>
         <item>
