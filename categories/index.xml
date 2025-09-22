@@ -7,10 +7,18 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>nl-nl</language>
         <copyright>Iris Wijngaard</copyright>
-        <lastBuildDate>Mon, 22 Sep 2025 08:00:01 +0000</lastBuildDate><atom:link href="https://lowcarbz.nl/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 22 Sep 2025 12:00:01 +0000</lastBuildDate><atom:link href="https://lowcarbz.nl/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Diner</title>
+        <link>https://lowcarbz.nl/categories/diner/</link>
+        <pubDate>Mon, 22 Sep 2025 12:00:01 +0000</pubDate>
+        
+        <guid>https://lowcarbz.nl/categories/diner/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Keto</title>
         <link>https://lowcarbz.nl/categories/keto/</link>
-        <pubDate>Mon, 22 Sep 2025 08:00:01 +0000</pubDate>
+        <pubDate>Mon, 22 Sep 2025 12:00:01 +0000</pubDate>
         
         <guid>https://lowcarbz.nl/categories/keto/</guid>
         <description></description>
@@ -18,7 +26,7 @@
         <item>
         <title>Vegetarisch</title>
         <link>https://lowcarbz.nl/categories/vegetarisch/</link>
-        <pubDate>Mon, 22 Sep 2025 08:00:01 +0000</pubDate>
+        <pubDate>Mon, 22 Sep 2025 12:00:01 +0000</pubDate>
         
         <guid>https://lowcarbz.nl/categories/vegetarisch/</guid>
         <description></description>
@@ -141,14 +149,6 @@
         <pubDate>Sat, 20 Sep 2025 23:06:21 +0000</pubDate>
         
         <guid>https://lowcarbz.nl/categories/keto-recepten/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Diner</title>
-        <link>https://lowcarbz.nl/categories/diner/</link>
-        <pubDate>Sat, 20 Sep 2025 16:00:01 +0000</pubDate>
-        
-        <guid>https://lowcarbz.nl/categories/diner/</guid>
         <description></description>
         </item>
         <item>
