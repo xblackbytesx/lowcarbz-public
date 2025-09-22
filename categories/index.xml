@@ -7,7 +7,31 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>nl-nl</language>
         <copyright>Iris Wijngaard</copyright>
-        <lastBuildDate>Mon, 22 Sep 2025 16:00:01 +0000</lastBuildDate><atom:link href="https://lowcarbz.nl/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 22 Sep 2025 20:00:01 +0000</lastBuildDate><atom:link href="https://lowcarbz.nl/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Comfort Food</title>
+        <link>https://lowcarbz.nl/categories/comfort-food/</link>
+        <pubDate>Mon, 22 Sep 2025 20:00:01 +0000</pubDate>
+        
+        <guid>https://lowcarbz.nl/categories/comfort-food/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Keto</title>
+        <link>https://lowcarbz.nl/categories/keto/</link>
+        <pubDate>Mon, 22 Sep 2025 20:00:01 +0000</pubDate>
+        
+        <guid>https://lowcarbz.nl/categories/keto/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Vegetarisch</title>
+        <link>https://lowcarbz.nl/categories/vegetarisch/</link>
+        <pubDate>Mon, 22 Sep 2025 20:00:01 +0000</pubDate>
+        
+        <guid>https://lowcarbz.nl/categories/vegetarisch/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Indiase Keuken</title>
         <link>https://lowcarbz.nl/categories/indiase-keuken/</link>
         <pubDate>Mon, 22 Sep 2025 16:00:01 +0000</pubDate>
@@ -37,22 +61,6 @@
         <pubDate>Mon, 22 Sep 2025 12:00:01 +0000</pubDate>
         
         <guid>https://lowcarbz.nl/categories/diner/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Keto</title>
-        <link>https://lowcarbz.nl/categories/keto/</link>
-        <pubDate>Mon, 22 Sep 2025 12:00:01 +0000</pubDate>
-        
-        <guid>https://lowcarbz.nl/categories/keto/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Vegetarisch</title>
-        <link>https://lowcarbz.nl/categories/vegetarisch/</link>
-        <pubDate>Mon, 22 Sep 2025 12:00:01 +0000</pubDate>
-        
-        <guid>https://lowcarbz.nl/categories/vegetarisch/</guid>
         <description></description>
         </item>
         <item>
@@ -189,14 +197,6 @@
         <pubDate>Sat, 20 Sep 2025 12:00:01 +0000</pubDate>
         
         <guid>https://lowcarbz.nl/categories/koken/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Comfort Food</title>
-        <link>https://lowcarbz.nl/categories/comfort-food/</link>
-        <pubDate>Sat, 20 Sep 2025 00:00:01 +0000</pubDate>
-        
-        <guid>https://lowcarbz.nl/categories/comfort-food/</guid>
         <description></description>
         </item>
         <item>
