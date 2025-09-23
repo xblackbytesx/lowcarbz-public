@@ -7,7 +7,31 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>nl-nl</language>
         <copyright>Iris Wijngaard</copyright>
-        <lastBuildDate>Tue, 23 Sep 2025 00:00:01 +0000</lastBuildDate><atom:link href="https://lowcarbz.nl/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 23 Sep 2025 04:00:01 +0000</lastBuildDate><atom:link href="https://lowcarbz.nl/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Gezonde Snacks</title>
+        <link>https://lowcarbz.nl/categories/gezonde-snacks/</link>
+        <pubDate>Tue, 23 Sep 2025 04:00:01 +0000</pubDate>
+        
+        <guid>https://lowcarbz.nl/categories/gezonde-snacks/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Keto Recepten</title>
+        <link>https://lowcarbz.nl/categories/keto-recepten/</link>
+        <pubDate>Tue, 23 Sep 2025 04:00:01 +0000</pubDate>
+        
+        <guid>https://lowcarbz.nl/categories/keto-recepten/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Vegetarische Opties</title>
+        <link>https://lowcarbz.nl/categories/vegetarische-opties/</link>
+        <pubDate>Tue, 23 Sep 2025 04:00:01 +0000</pubDate>
+        
+        <guid>https://lowcarbz.nl/categories/vegetarische-opties/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Keto</title>
         <link>https://lowcarbz.nl/categories/keto/</link>
         <pubDate>Tue, 23 Sep 2025 00:00:01 +0000</pubDate>
@@ -176,14 +200,6 @@
         <description></description>
         </item>
         <item>
-        <title>Keto Recepten</title>
-        <link>https://lowcarbz.nl/categories/keto-recepten/</link>
-        <pubDate>Sat, 20 Sep 2025 23:06:21 +0000</pubDate>
-        
-        <guid>https://lowcarbz.nl/categories/keto-recepten/</guid>
-        <description></description>
-        </item>
-        <item>
         <title>Gezonde Voeding</title>
         <link>https://lowcarbz.nl/categories/gezonde-voeding/</link>
         <pubDate>Sat, 20 Sep 2025 12:00:01 +0000</pubDate>
@@ -245,14 +261,6 @@
         <pubDate>Fri, 19 Sep 2025 12:18:27 +0200</pubDate>
         
         <guid>https://lowcarbz.nl/categories/nederlandse-keuken/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Gezonde Snacks</title>
-        <link>https://lowcarbz.nl/categories/gezonde-snacks/</link>
-        <pubDate>Fri, 19 Sep 2025 12:07:50 +0200</pubDate>
-        
-        <guid>https://lowcarbz.nl/categories/gezonde-snacks/</guid>
         <description></description>
         </item>
         
