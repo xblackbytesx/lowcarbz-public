@@ -7,12 +7,28 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>nl-nl</language>
         <copyright>Iris Wijngaard</copyright>
-        <lastBuildDate>Tue, 23 Sep 2025 20:00:01 +0000</lastBuildDate><atom:link href="https://lowcarbz.nl/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 24 Sep 2025 00:00:01 +0000</lastBuildDate><atom:link href="https://lowcarbz.nl/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Fermentatie</title>
+        <link>https://lowcarbz.nl/categories/fermentatie/</link>
+        <pubDate>Wed, 24 Sep 2025 00:00:01 +0000</pubDate>
+        
+        <guid>https://lowcarbz.nl/categories/fermentatie/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Gezonde Voeding</title>
         <link>https://lowcarbz.nl/categories/gezonde-voeding/</link>
-        <pubDate>Tue, 23 Sep 2025 20:00:01 +0000</pubDate>
+        <pubDate>Wed, 24 Sep 2025 00:00:01 +0000</pubDate>
         
         <guid>https://lowcarbz.nl/categories/gezonde-voeding/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Koolhydraatarm</title>
+        <link>https://lowcarbz.nl/categories/koolhydraatarm/</link>
+        <pubDate>Wed, 24 Sep 2025 00:00:01 +0000</pubDate>
+        
+        <guid>https://lowcarbz.nl/categories/koolhydraatarm/</guid>
         <description></description>
         </item>
         <item>
@@ -21,14 +37,6 @@
         <pubDate>Tue, 23 Sep 2025 20:00:01 +0000</pubDate>
         
         <guid>https://lowcarbz.nl/categories/keto-recepten/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Koolhydraatarm</title>
-        <link>https://lowcarbz.nl/categories/koolhydraatarm/</link>
-        <pubDate>Tue, 23 Sep 2025 16:00:01 +0000</pubDate>
-        
-        <guid>https://lowcarbz.nl/categories/koolhydraatarm/</guid>
         <description></description>
         </item>
         <item>
@@ -133,14 +141,6 @@
         <pubDate>Mon, 22 Sep 2025 08:00:01 +0000</pubDate>
         
         <guid>https://lowcarbz.nl/categories/voeding/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Fermentatie</title>
-        <link>https://lowcarbz.nl/categories/fermentatie/</link>
-        <pubDate>Mon, 22 Sep 2025 04:00:01 +0000</pubDate>
-        
-        <guid>https://lowcarbz.nl/categories/fermentatie/</guid>
         <description></description>
         </item>
         <item>
